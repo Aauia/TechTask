@@ -17,5 +17,5 @@
 
 1. Склонировать репозиторий:
 ```bash
-git clone https://github.com/your-repo/bitrix24-lead-bot.git
+git clone https://github.com/your-repo/TechTask.git
 cd bitrix24-lead-bot
